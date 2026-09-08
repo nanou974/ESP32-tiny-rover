@@ -1,3 +1,5 @@
+![Tiny Rover v1](Tiny_rover%20v1.png)
+
 # ESP32 Tiny Rover
 
 Mini rover **4 roues motrices à propulsion différentielle**, piloté par un **ESP32-C3 SuperMini** et conçu pour être commandé en **ESP-NOW**.
@@ -28,6 +30,8 @@ Les huit entrées des deux L9110S sont pilotées indépendamment par l'ESP32-C3.
 | Droit | 2 | B2 | 1 |
 
 Les deux moteurs d'un même côté seront synchronisés par logiciel. Le rover tourne par différence de vitesse et/ou de sens entre le côté gauche et le côté droit.
+
+![Circuit du Tiny Rover](circuit_image.png)
 
 ## Documentation
 
