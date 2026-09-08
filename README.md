@@ -37,7 +37,7 @@ Les deux moteurs d'un même côté seront synchronisés par logiciel. Le rover t
 
 La documentation complète du circuit, avec schéma de câblage, architecture d'alimentation et BOM, est disponible ici :
 
-**[Ouvrir la documentation complète](docs/index.html)**
+**[Ouvrir la documentation complète](https://nanou974.github.io/ESP32-tiny-rover/)**
 
 ## État du projet
 
